@@ -1,2 +1,2 @@
-./java-app/mysql-docker-java-test.iml
-./java-app/.idea
+/java-app/mysql-docker-java-test.iml
+/java-app/.idea/*
